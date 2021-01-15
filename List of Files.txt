@@ -1,0 +1,8 @@
+1         data
+2         config
+3         NEW TEXT DOCUMENT
+4         README
+5         REQUIREMENTS
+6         text_clasification
+7         tools
+8         Untitled.ipynb
